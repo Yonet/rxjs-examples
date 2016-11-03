@@ -51,7 +51,4 @@ export class SubjectComponent implements OnInit {
     subject.complete();
   }
 
-
-
-
 }
